@@ -1,3 +1,4 @@
 # git_github_practice
-i'm trying to learn git and github from practice 
+I'm trying to learn git and GitHub from practice 
+<br>
 this is done from vs code
